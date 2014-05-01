@@ -1,4 +1,4 @@
 Algoritmica1
 ============
 
-My first repository for the course algoritmica1_UNMSM
+Mi primer repositorio para el curso de algoritmica1_UNMSM
